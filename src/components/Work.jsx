@@ -45,7 +45,7 @@ const works = [
   },
   {
     imgSrc: '/images/app-cajero.jpg',
-    title: 'Cajero Automatico',
+    title: 'Cajero Automático',
     tags: ['MVC', 'Java', 'Desktop'],
     projectLink: 'https://github.com/Jose-Q91/Cajero-Autom-tico'
   },
