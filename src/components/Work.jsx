@@ -4,37 +4,37 @@ const works = [
   {
     imgSrc: '/images/allhardware.jpg',
     title: 'Full stack allhardware app',
-    tags: ['E-commerce', 'MVC', 'Development'],
+    tags: ['E-commerce', 'MVC', 'Laravel'],
     projectLink: 'https://github.com/Jose-Q91/Tienda-Online-All-Hardward-con-Laravel'
   },
   {
     imgSrc: '/images/healthy.jpg',
     title: 'Full stack healthy app',
-    tags: ['E-commerce', 'MVC', 'Development'],
+    tags: ['E-commerce', 'MVC', 'Flask'],
     projectLink: 'https://github.com/Jose-Q91/HealthyBite-con-Flask'
   },
   {
     imgSrc: '/images/oradores.jpg',
     title: 'Full stack oradores app',
-    tags: ['E-commerce', 'MVC', 'Development'],
+    tags: ['Web-site', 'MVC', 'Java'],
     projectLink: 'https://github.com/Jose-Q91/App-Web-con-Java'
   },
   {
     imgSrc: '/images/ecommerce.jpg',
     title: 'E-Commerce Mario',
-    tags: ['Development', 'E-commerce'],
+    tags: ['E-commerce', 'React + TypeScript'],
     projectLink: 'https://github.com/Jose-Q91/E-commerce-React'
   },
   {
     imgSrc: '/images/startgame.jpg',
     title: 'Startgame website',
-    tags: ['API', 'Development'],
+    tags: ['API', 'Development', 'NodeJS'],
     projectLink: 'https://github.com/joseluisx10/Proyecto-gameStart-con-NodeJS'
   },
   {
     imgSrc: '/images/appeventos.jpg',
     title: 'Eventos Musicales App',
-    tags: ['Web-design', 'Development', 'MVC'],
+    tags: ['Web-site', 'MVC', 'PHP'],
     projectLink: 'https://github.com/Jose-Q91/Aplicacion-Web-de-Eventos-Musicales-con-PHP'
   },
 ];
