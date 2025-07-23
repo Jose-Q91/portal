@@ -10,7 +10,7 @@ const jobs = [
     endDate: 'Jul 2023',
     description: 'Durante el Proyecto Final de Codo a Codo 4.0, desarrollé una plataforma interactiva para la gestión de oradores especializados. Poseo habilidades en la ',
     tags: ['Java', 'Maven', 'MySql', 'Servlets', 'HTML5', ' CSS3', 'Bootstrap', 'JavaScript', 'Vue.js'],
-    companyLink: 'https://www.linkedin.com/in/joseluisquispe/overlay/1723872521762/single-media-viewer/?'
+    companyLink: 'https://www.digitalhouse.com/ar'
   },
   {
     companyLogo: '/images/digitalhouse.png',
@@ -20,7 +20,7 @@ const jobs = [
     endDate: 'Aug 2020',
     description: 'Desarrollo de e-commerce de insumos para computadoras - All Hardware',
     tags: ['React', 'Node.js', 'MySql', 'Express', 'JavaScript', 'Sequelize'],
-    companyLink: 'https://techsolutions.com'
+    companyLink: 'https://buenosaires.gob.ar/noticias/inscribite-codo-codo'
   },
 ]
 
