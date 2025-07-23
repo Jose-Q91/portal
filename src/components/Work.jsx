@@ -43,6 +43,12 @@ const works = [
     tags: ['E-commerce', 'MVC', 'NodeJS'],
     projectLink: 'https://github.com/matiasniedermaier/grupo_4_AllHardware'
   },
+  {
+    imgSrc: '/images/app-cajero.jpg',
+    title: 'Cajero Automatico',
+    tags: ['MVC', 'Java', 'Desktop'],
+    projectLink: 'https://github.com/Jose-Q91/Cajero-Autom-tico'
+  },
 ];
 
 const Work = () => {
