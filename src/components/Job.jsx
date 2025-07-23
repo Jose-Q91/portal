@@ -7,10 +7,10 @@ const jobs = [
     position: 'Tesis Final - Analista en Sistemas',
     companyName: 'Escuela Da Vinci',
     startDate: "Ene 2025",
-    endDate: 'Aug 2025',
+    endDate: '',
     description: 'El proyecto se está desarrollando en equipo e incluye planificación, gestión, documentación, diseño y desarrollo de un e-commerce multiplataforma para una tienda de perfumes - Eterea Parfums.',
     tags: ['C#', '.Net', 'Sql Server', 'HTML5', ' CSS3', 'Bootstrap', 'JavaScript', 'jquery', 'Android', 'Jira'],
-    companyLink: '#work'
+    companyLink: 'https://davinci.edu.ar/'
   },
   {
     companyLogo: '/images/codoacodo.png',

@@ -24,7 +24,7 @@ const JobCard = ({
                         formatDate(endDate)
                     ) : (
                         <span className="dark:text-primary-color text-sky-400">
-                            Present
+                            Actualidad
                         </span>
                     )}
                 </time>

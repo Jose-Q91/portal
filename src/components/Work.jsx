@@ -2,8 +2,8 @@ import React from 'react'
 import ProjectCard from './ProjectCard';
 const works = [
   {
-    imgSrc: '/images/allhardware.jpg',
-    title: 'Full stack allhardware app',
+    imgSrc: '/images/allhardward.jpg',
+    title: 'Full stack allhardward app',
     tags: ['E-commerce', 'MVC', 'Laravel'],
     projectLink: 'https://github.com/Jose-Q91/Tienda-Online-All-Hardward-con-Laravel'
   },
@@ -36,6 +36,12 @@ const works = [
     title: 'Eventos Musicales App',
     tags: ['Web-site', 'MVC', 'PHP'],
     projectLink: 'https://github.com/Jose-Q91/Aplicacion-Web-de-Eventos-Musicales-con-PHP'
+  },
+  {
+    imgSrc: '/images/allhardware.jpg',
+    title: 'Full Stack AllHardware App',
+    tags: ['E-commerce', 'MVC', 'NodeJS'],
+    projectLink: 'https://github.com/matiasniedermaier/grupo_4_AllHardware'
   },
 ];
 
