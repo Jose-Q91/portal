@@ -53,7 +53,7 @@ const Footer = () => {
         </p>
         <ButtonPrimary 
           href="mailto:joseluis.quispe_91@hotmail.com"
-          label="Escribime"
+          label="Escríbeme"
           icon="chevron_right"
         />
       </div>
